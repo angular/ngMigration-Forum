@@ -5,8 +5,6 @@ We would love for you to contribute to AngularJS/Angular upgrade project and hel
  - [Questions and Answers](#question)
     - [Submitting Issues](#submit-issue)
  - [Adding Documentation](#docs)
- - [Feature Requests](#feature)
- - [Missing a Feature/Tool/Documentation?](#feature)
  - [Terminology](#terms)
  - [Glossary](#glossary)
 
@@ -34,7 +32,6 @@ You can file new issues by filling out our [new issue form](https://github.com/e
 ## <a name="docs"></a> Adding Documentation
 This Wiki tab is where all documentation on upgrading, migration paths, available tools, and examples will live. Please follow the documentation guidelines below.
 
-## <a name="feature"></a> Missing a Feature/Tool/Documentation?
 Since this is an opensource forum, it is up to you to add new features, tools, or documentation. We request that you follow our guidelines when adding new features and removing existing features. Please refer to the [terminology]() and [reasons for removing]() pages when adding or removing documents.
 
 ## <a name="terms"></a> Terminology
