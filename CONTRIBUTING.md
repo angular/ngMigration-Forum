@@ -4,8 +4,11 @@ We would love for you to contribute to AngularJS/Angular upgrade project and hel
  - [Code of Conduct](#coc)
  - [Questions and Answers](#question)
     - [Submitting Issues](#submit-issue)
+ - [Adding Documentation](#docs)
  - [Feature Requests](#feature)
  - [Missing a Feature/Tool/Documentation?](#feature)
+ - [Terminology](#terms)
+ - [Glossary](#glossary)
 
 ## <a name="coc"></a> Code of Conduct
 Help us keep Angular open and inclusive. Please read and follow our [Code of Conduct][coc].
@@ -28,7 +31,18 @@ We will be insisting on a minimal reproduce scenario in order to save maintainer
 
 You can file new issues by filling out our [new issue form](https://github.com/ellamaolson/BetaForum/issues/new).
 
+## <a name="docs"></a> Adding Documentation
+This Wiki tab is where all documentation on upgrading, migration paths, available tools, and examples will live. Please follow the documentation guidelines below.
+
 ## <a name="feature"></a> Missing a Feature/Tool/Documentation?
 Since this is an opensource forum, it is up to you to add new features, tools, or documentation. We request that you follow our guidelines when adding new features and removing existing features. Please refer to the [terminology]() and [reasons for removing]() pages when adding or removing documents.
+
+## <a name="terms"></a> Terminology
+Please do not vere from the standard terminologies used in this document. To provide a clear standard for how to refer to certain terms, please refer to the [terminology]() page. Most common terms used are:
+- Angular: meaning for what is also known as ng2, Angular 2+, Angular 2, Angular 4, Angular 5, Angular 6.
+- AngularJS: meaning for what is also kown as ng1, Angular 1.
+
+## <a name="glossary"></a> Glossary
+We encourage you to add to the glossary each time you add a new documentation, whether it is a link to software, an article, or an opensource tool. This will help developers quickly find what they are looking for when searching through this upgrade forum. 
 
 [coc]: https://github.com/BetaForum/CODE_OF_CONDUCT.md
