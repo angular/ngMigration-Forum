@@ -3,7 +3,7 @@ We would love for you to contribute to AngularJS/Angular upgrade project and hel
 
  - [Code of Conduct](#coc)
  - [Want to Contribute?](#contribution)
- - [Question and Answers](#question)
+ - [Questions and Answers](#question)
  - [Feature Requests](#feature)
  - [Submitting Issues](#submit-issue)
  - [Missing a Feature/Tool/Documentation?](#feature)
@@ -13,7 +13,7 @@ Help us keep Angular open and inclusive. Please read and follow our [Code of Con
 
 ## <a name="contribution"></a> Want to Contribute?
 
-## <a name="question"></a> Got a Question and Answers
+## <a name="question"></a> Questions and Answers
 Here is where you can finally ask all those nitty gritty or general upgrade questions and have experts respond. The issues tab will be our questions and answers section. Any closed issue means we have concluded a good answer and any open means they still need an answer.
 
 ### <a name="submit-issue"></a> Submitting an Issue
